@@ -12,8 +12,6 @@ This repository contains the implementation of machine learning models developed
 ## 📂 Files
 
 - `gradientboostingmlpanksiyetesi-bozuklugu.ipynb`: Main Jupyter Notebook implementing the classification pipeline.
-- (Optional) `data_description.txt`: Overview of dataset features and structure (not included here).
-- (Optional) `figures/`: Plots of confusion matrices, ROC curves, correlation heatmaps.
 
 ## 📊 Models Used
 
@@ -65,14 +63,26 @@ pandas
 numpy
 ```
 
+## 👥 Authors
+
+**Hazal Karakuş\*¹**  
+Department of Child Care and Youth Services, Sason Vocational School, Batman University, Batman, Türkiye  
+📧 hazalkarakus@batman.edu.tr
+
+**Ayşe Saliha Sunar²**  
+Department of Child Development, Faculty of Health Sciences, Batman University, Batman, Türkiye  
+📧 aysesalihasunar@batman.edu.tr
+
+**Selahattin Barış Çelebi³**  
+Department of Computer Engineering, Faculty of Engineering, Munzur University, Tunceli, Türkiye  
+📧 sbariscelebi@gmail.com
+
+\*Corresponding author: hazalkarakus@batman.edu.tr
+
 ## 📄 Citation
 
-If you use this code for academic research, please cite the following (example):
+If you use this code for academic research, please cite as:
 
 ```
-Çelebi, B., & [Your Name]. (2025). Machine Learning for Early Detection of Separation Anxiety Disorder in Preschool Children. [Manuscript in preparation].
+Karakuş, H., Sunar, A. S., & Çelebi, S. B. (2025). Machine Learning for Early Detection of Separation Anxiety Disorder in Preschool Children. [Manuscript in preparation].
 ```
-
-## 📬 Contact
-
-For questions or collaborations, please contact [your-email@example.com].
